@@ -1,6 +1,6 @@
 
 # Hey!, I'm Aziz, a Tunisian Full Stack Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://aziz-toulgui-portfolio.netlify.app/)<br>👨🏼‍🎓 studying  Buisness computing in FSEGN<br>👨🏼‍💻 i'm a hard working and ambitious full stack developer<br>🎬 just started out on my own trying to get better everyday
+🛜 currently working on my own [webpage](https://aziz-toulgui-portfolio.netlify.app/)<br>👨🏼‍🎓 studying  Buisness computing in FSEGN<br>👨🏼‍💻 i'm a hard working and ambitious full stack JS developer<br>🎬 just started out on my own trying to get better everyday
 
 
 # 💻 Tech Stack:
